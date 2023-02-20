@@ -4,7 +4,7 @@ Número de control :
 
 Nombre completo: 
 
-curp: 
+CURP: 
 
 Dirección de domicilio: 
 
